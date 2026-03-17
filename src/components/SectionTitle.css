@@ -1,0 +1,42 @@
+.section-title {
+  margin-bottom: 60px;
+}
+
+.section-title--center {
+  text-align: center;
+}
+
+.section-title--left {
+  text-align: left;
+}
+
+.section-title h2 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  display: inline-block;
+  position: relative;
+}
+
+.section-title__bar {
+  height: 6px;
+  width: 80px;
+  background: var(--clr-accent);
+  border: 2px solid var(--clr-dark);
+  margin-top: 12px;
+}
+
+.section-title--center .section-title__bar {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width: 768px) {
+  .section-title h2 {
+    font-size: 2.2rem;
+  }
+
+  .section-title {
+    margin-bottom: 40px;
+  }
+}
