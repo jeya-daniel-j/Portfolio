@@ -92,6 +92,7 @@
 .hero__name {
   color: var(--clr-accent);
   position: relative;
+  white-space: nowrap;
 }
 
 .hero__name::after {

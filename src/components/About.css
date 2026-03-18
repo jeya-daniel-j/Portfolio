@@ -93,6 +93,7 @@
   font-family: var(--font-heading);
   font-weight: 600;
   font-size: 0.95rem;
+  white-space: nowrap;
 }
 
 .about__info-value--highlight {
