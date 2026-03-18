@@ -58,7 +58,7 @@ export default function About() {
               </div>
 
               <a href="#contact" className="brutal-btn" style={{ marginTop: '24px' }}>
-                Let's Talk →
+                Hire me →
               </a>
             </div>
           </div>
