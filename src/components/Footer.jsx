@@ -37,7 +37,7 @@ export default function Footer() {
 
       <div className="footer__bottom brutal-border">
         <div className="container footer__bottom-inner">
-          <p>© {new Date().getFullYear()} John Doe. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Jeya Daniel J. All rights reserved.</p>
           <p>
             Designed & built with <span className="footer__heart">♥</span> and lots of ☕
           </p>

@@ -39,7 +39,7 @@ export default function About() {
               <div className="about__info-grid">
                 <div className="about__info-item">
                   <span className="about__info-label">Name</span>
-                  <span className="about__info-value">John Doe</span>
+                  <span className="about__info-value">Jeya Daniel J</span>
                 </div>
                 <div className="about__info-item">
                   <span className="about__info-label">Email</span>

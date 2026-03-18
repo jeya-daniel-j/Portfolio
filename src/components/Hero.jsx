@@ -17,7 +17,7 @@ export default function Hero() {
           </div>
 
           <h1 className="hero__title">
-            Hi, I'm <span className="hero__name">John Doe</span>
+            Hi, I'm <span className="hero__name">Jeya Daniel J</span>
             <br />
             <span className="hero__role">Full-Stack Developer</span>
           </h1>
