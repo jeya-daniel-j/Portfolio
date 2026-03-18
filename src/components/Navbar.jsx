@@ -39,14 +39,18 @@ export default function Navbar() {
             </li>
           ))}
           <li className="navbar__cta-mobile">
-            <a href="#contact" className="brutal-btn" onClick={closeMenu}>
-              Hire Me
+            <a href="#video" className="brutal-btn" aria-label="Play Video" onClick={closeMenu}>
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M5 3L19 12L5 21V3Z" fill="currentColor" />
+              </svg>
             </a>
           </li>
         </ul>
 
-        <a href="#contact" className="brutal-btn navbar__cta-desktop">
-          Hire Me
+        <a href="#video" className="brutal-btn navbar__cta-desktop" aria-label="Play Video">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M5 3L19 12L5 21V3Z" fill="currentColor" />
+          </svg>
         </a>
 
         <button
