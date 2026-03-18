@@ -11,10 +11,10 @@ export default function Hero() {
 
       <div className="container hero__inner">
         <div className="hero__content">
-          <div className="hero__badge brutal-border brutal-shadow">
+          <a href="#contact" className="hero__badge brutal-border brutal-shadow">
             <span className="hero__badge-dot" />
-            Available for work
-          </div>
+            Always online
+          </a>
 
           <h1 className="hero__title">
             Hi, I'm <span className="hero__name">Jeya Daniel J</span>
