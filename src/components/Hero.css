@@ -205,8 +205,16 @@
   font-family: var(--font-heading);
   font-weight: 600;
   font-size: 0.85rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
   background: #fff;
   animation: float 3s ease-in-out infinite;
+}
+
+.hero__floating-icon {
+  width: 20px;
+  height: 20px;
 }
 
 .hero__floating-tag--1 {
