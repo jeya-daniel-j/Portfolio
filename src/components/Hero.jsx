@@ -31,23 +31,21 @@ export default function Hero() {
             <a href="#projects" className="brutal-btn">
               View Projects ↓
             </a>
-            <a href="#contact" className="brutal-btn brutal-btn--accent">
-              Get in Touch
+            <a href="#video" className="brutal-btn brutal-btn--accent" aria-label="Play Video">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M5 3L19 12L5 21V3Z" fill="currentColor" />
+              </svg>
             </a>
           </div>
 
           <div className="hero__stats">
             <div className="hero__stat brutal-border">
-              <span className="hero__stat-number">3+</span>
+              <span className="hero__stat-number">0</span>
               <span className="hero__stat-label">Years Exp.</span>
             </div>
             <div className="hero__stat brutal-border">
-              <span className="hero__stat-number">20+</span>
+              <span className="hero__stat-number">0</span>
               <span className="hero__stat-label">Projects</span>
-            </div>
-            <div className="hero__stat brutal-border">
-              <span className="hero__stat-number">15+</span>
-              <span className="hero__stat-label">Happy Clients</span>
             </div>
           </div>
         </div>
