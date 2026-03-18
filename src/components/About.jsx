@@ -21,11 +21,11 @@ export default function About() {
           <div className="about__text-col">
             <div className="about__card brutal-border brutal-shadow">
               <h3 className="about__subtitle">
-                A passionate developer who loves building things for the web.
+                A passionate designer who loves building things for the web.
               </h3>
               <p>
-                I'm a full-stack developer with 3+ years of experience building modern web
-                applications. I specialize in React, Node.js, and everything in between.
+                I'm a UI/UX designer with 3+ years of experience building modern web
+                applications. I specialize in design systems, user interfaces, and everything in between.
                 My focus is on creating performant, accessible, and visually striking
                 digital experiences.
               </p>

@@ -19,7 +19,7 @@ export default function Hero() {
           <h1 className="hero__title">
             Hi, I'm <span className="hero__name">Jeya Daniel J</span>
             <br />
-            <span className="hero__role">Full-Stack Developer</span>
+            <span className="hero__role">UI/UX Designer</span>
           </h1>
 
           <p className="hero__description">
