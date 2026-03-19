@@ -4,27 +4,14 @@ import './Skills.css'
 
 const SKILL_CATEGORIES = [
   {
-    title: 'Frontend',
+    title: 'Programming language',
     color: 'var(--clr-primary)',
     skills: [
-      { name: 'React', icon: '⚛️' },
+      { name: 'C', icon: '🔤' },
+      { name: 'Java', icon: '☕' },
       { name: 'JavaScript', icon: '🟨' },
       { name: 'TypeScript', icon: '🔷' },
-      { name: 'HTML/CSS', icon: '🎨' },
-      { name: 'Next.js', icon: '▲' },
-      { name: 'Tailwind', icon: '💨' },
-    ],
-  },
-  {
-    title: 'Backend',
-    color: 'var(--clr-green)',
-    skills: [
-      { name: 'Node.js', icon: '🟢' },
-      { name: 'Express', icon: '🚀' },
       { name: 'Python', icon: '🐍' },
-      { name: 'PostgreSQL', icon: '🐘' },
-      { name: 'MongoDB', icon: '🍃' },
-      { name: 'REST APIs', icon: '🔌' },
     ],
   },
   {
