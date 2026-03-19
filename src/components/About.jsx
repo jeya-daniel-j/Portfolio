@@ -43,23 +43,13 @@ export default function About() {
                 </div>
                 <div className="about__info-item">
                   <span className="about__info-label">Email</span>
-                  <span className="about__info-value">hello@johndoe.dev</span>
+                  <span className="about__info-value">jeyadanielj@gmail.com</span>
                 </div>
                 <div className="about__info-item">
                   <span className="about__info-label">Location</span>
-                  <span className="about__info-value">San Francisco, CA</span>
-                </div>
-                <div className="about__info-item">
-                  <span className="about__info-label">Availability</span>
-                  <span className="about__info-value about__info-value--highlight">
-                    Open to work
-                  </span>
+                  <span className="about__info-value">Tirunelveli, TN</span>
                 </div>
               </div>
-
-              <a href="#contact" className="brutal-btn" style={{ marginTop: '24px' }}>
-                Hire me →
-              </a>
             </div>
           </div>
         </div>

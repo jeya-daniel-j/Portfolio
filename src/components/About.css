@@ -1,5 +1,5 @@
 .about {
-  background: #fff;
+  background: var(--clr-light);
   border-top: var(--border);
   border-bottom: var(--border);
 }
