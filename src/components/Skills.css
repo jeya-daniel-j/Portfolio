@@ -3,17 +3,14 @@
 }
 
 .skills__categories {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   gap: 32px;
 }
 
 .skills__category {
   background: #fff;
   overflow: hidden;
-  width: 100%;
-  max-width: 480px;
 }
 
 .skills__category-title {
