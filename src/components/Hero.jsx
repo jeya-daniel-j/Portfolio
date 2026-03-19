@@ -1,4 +1,5 @@
-import avatar from '../assets/avatar.png'
+import React from 'react'
+import './Hero.css'
 
 export default function Hero() {
   return (
@@ -46,7 +47,9 @@ export default function Hero() {
         <div className="hero__visual">
           <div className="hero__avatar-wrapper brutal-border brutal-shadow">
             <div className="hero__avatar">
-              <img src={avatar} alt="Jeya Daniel J" className="hero__avatar-img" />
+              <div className="hero__avatar-placeholder">
+                <span>JD</span>
+              </div>
             </div>
           </div>
           <div className="hero__floating-tag hero__floating-tag--1 brutal-border">

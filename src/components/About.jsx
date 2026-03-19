@@ -1,4 +1,6 @@
-import avatar from '../assets/avatar.png'
+import React from 'react'
+import SectionTitle from './SectionTitle'
+import './About.css'
 
 export default function About() {
   return (
@@ -9,7 +11,9 @@ export default function About() {
         <div className="about__grid">
           <div className="about__image-col">
             <div className="about__image-wrapper brutal-border brutal-shadow">
-              <img src={avatar} alt="Jeya Daniel J" className="about__avatar-img" />
+              <div className="about__image-placeholder">
+                <span className="about__emoji">👨‍💻</span>
+              </div>
             </div>
             <div className="about__accent-block" />
           </div>
