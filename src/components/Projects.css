@@ -1,5 +1,9 @@
 .projects {
   background: #fff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   border-top: var(--border);
   border-bottom: var(--border);
 }
