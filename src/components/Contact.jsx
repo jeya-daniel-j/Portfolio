@@ -38,14 +38,14 @@ export default function Contact() {
                 <span className="contact__detail-icon">📧</span>
                 <div>
                   <span className="contact__detail-label">Email</span>
-                  <span className="contact__detail-value">hello@johndoe.dev</span>
+                  <span className="contact__detail-value">jeyadanielj@gmail.com</span>
                 </div>
               </div>
               <div className="contact__detail brutal-border">
                 <span className="contact__detail-icon">📍</span>
                 <div>
                   <span className="contact__detail-label">Location</span>
-                  <span className="contact__detail-value">San Francisco, CA</span>
+                  <span className="contact__detail-value">Tirunelveli, TN</span>
                 </div>
               </div>
             </div>
