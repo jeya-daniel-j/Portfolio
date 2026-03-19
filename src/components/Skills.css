@@ -1,5 +1,9 @@
 .skills {
   background: var(--clr-light);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .skills__categories {
