@@ -38,11 +38,7 @@ export default function Hero() {
 
           <div className="hero__stats">
             <div className="hero__stat brutal-border">
-              <span className="hero__stat-number">0</span>
-              <span className="hero__stat-label">Years Exp.</span>
-            </div>
-            <div className="hero__stat brutal-border">
-              <span className="hero__stat-number">0</span>
+              <span className="hero__stat-number">1</span>
               <span className="hero__stat-label">Projects</span>
             </div>
           </div>

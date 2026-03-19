@@ -24,7 +24,7 @@ export default function About() {
                 A passionate designer who loves building things for the web.
               </h3>
               <p>
-                I'm a UI/UX designer with 0 years of experience building modern web
+                I'm a UI/UX designer building modern web
                 applications. I specialize in design systems, user interfaces, and everything in between.
                 My focus is on creating performant, accessible, and visually striking
                 digital experiences.
