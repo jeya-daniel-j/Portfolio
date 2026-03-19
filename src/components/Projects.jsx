@@ -10,7 +10,7 @@ const PROJECTS = [
     tags: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'JWT'],
     color: 'var(--clr-primary)',
     liveUrl: '#',
-    githubUrl: '#',
+    githubUrl: 'https://github.com/jeya-daniel-j',
   },
 ]
 
