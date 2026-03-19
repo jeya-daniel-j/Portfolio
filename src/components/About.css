@@ -1,5 +1,9 @@
 .about {
   background: var(--clr-light);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   border-top: var(--border);
   border-bottom: var(--border);
 }
@@ -7,8 +11,8 @@
 .about__grid {
   display: grid;
   grid-template-columns: 1fr 1.4fr;
-  gap: 60px;
-  align-items: start;
+  gap: 40px;
+  align-items: center;
 }
 
 /* ── Image column ── */
