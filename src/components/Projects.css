@@ -10,6 +10,13 @@
   gap: 32px;
 }
 
+/* Center single project card */
+.project-card:only-child {
+  grid-column: span 2;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 /* ── Card ── */
 .project-card {
   background: var(--clr-light);

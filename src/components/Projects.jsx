@@ -4,56 +4,11 @@ import './Projects.css'
 
 const PROJECTS = [
   {
-    title: 'E-Commerce Platform',
+    title: 'Car Rental Platform',
     description:
-      'A full-featured online store with cart, checkout, and payment integration. Built with React, Node.js, and Stripe.',
-    tags: ['React', 'Node.js', 'Stripe', 'MongoDB'],
+      'This Platform enables users to easily browse, book, and manage vehicle rentals online with a seamless experience.',
+    tags: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'JWT'],
     color: 'var(--clr-primary)',
-    liveUrl: '#',
-    githubUrl: '#',
-  },
-  {
-    title: 'Task Management App',
-    description:
-      'A drag-and-drop Kanban board for teams. Real-time sync with WebSockets, authentication, and role-based access.',
-    tags: ['Next.js', 'Socket.io', 'PostgreSQL', 'Tailwind'],
-    color: 'var(--clr-accent)',
-    liveUrl: '#',
-    githubUrl: '#',
-  },
-  {
-    title: 'AI Content Generator',
-    description:
-      'An AI-powered tool for generating marketing copy and blog posts. Features template library and team collaboration.',
-    tags: ['React', 'Python', 'OpenAI', 'FastAPI'],
-    color: 'var(--clr-blue)',
-    liveUrl: '#',
-    githubUrl: '#',
-  },
-  {
-    title: 'Weather Dashboard',
-    description:
-      'A beautiful weather dashboard with animated visualizations, 7-day forecasts, and location-based search.',
-    tags: ['React', 'D3.js', 'Weather API', 'CSS'],
-    color: 'var(--clr-green)',
-    liveUrl: '#',
-    githubUrl: '#',
-  },
-  {
-    title: 'Social Media Analytics',
-    description:
-      'A dashboard for tracking social media metrics with interactive charts, export functionality, and scheduled reports.',
-    tags: ['Vue.js', 'Express', 'Chart.js', 'Redis'],
-    color: 'var(--clr-purple)',
-    liveUrl: '#',
-    githubUrl: '#',
-  },
-  {
-    title: 'Portfolio Generator',
-    description:
-      'A CLI tool that generates beautiful portfolio websites from a JSON config. Supports multiple themes and deploy options.',
-    tags: ['Node.js', 'CLI', 'Handlebars', 'Vercel'],
-    color: 'var(--clr-orange)',
     liveUrl: '#',
     githubUrl: '#',
   },
