@@ -213,19 +213,19 @@
 
 .hero__floating-tag--1 {
   top: 8%;
-  right: 20px;
+  left: 10px;
   animation-delay: 0s;
 }
 
 .hero__floating-tag--2 {
   bottom: 25%;
-  left: 25px;
+  right: 25px;
   animation-delay: 1s;
 }
 
 .hero__floating-tag--3 {
   bottom: 12%;
-  right: 10px;
+  left: 10px;
   animation-delay: 2s;
 }
 
