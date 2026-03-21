@@ -108,13 +108,9 @@
     display: flex;
   }
 
-  .navbar__cta-desktop {
-    display: none;
-  }
-
+  .navbar__cta-desktop,
   .navbar__cta-mobile {
-    display: block;
-    margin-top: 8px;
+    display: none;
   }
 
   .navbar__links {
