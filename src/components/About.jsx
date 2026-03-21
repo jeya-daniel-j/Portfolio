@@ -1,6 +1,6 @@
 import React from 'react'
 import SectionTitle from './SectionTitle'
-import avatar from '../assets/avatar.png'
+import avatar from '../assets/1751099810790.jpg'
 import './About.css'
 
 export default function About() {

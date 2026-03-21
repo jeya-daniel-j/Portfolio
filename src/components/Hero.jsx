@@ -1,5 +1,5 @@
 import React from 'react'
-import avatar from '../assets/avatar.png'
+import avatar from '../assets/1751099810790.jpg'
 import './Hero.css'
 
 export default function Hero() {
