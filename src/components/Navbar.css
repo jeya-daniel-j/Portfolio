@@ -109,7 +109,7 @@
   }
 
   .navbar__cta-desktop {
-    display: none;
+    display: none !important;
   }
 
   .navbar__cta-mobile {
