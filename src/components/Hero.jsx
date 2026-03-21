@@ -2,6 +2,7 @@ import React from 'react'
 import avatar from '../assets/1751099810790.jpg'
 import './Hero.css'
 
+// Triggering fresh build with correct asset path
 export default function Hero() {
   return (
     <section className="hero section" id="home">
