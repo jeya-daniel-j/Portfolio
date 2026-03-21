@@ -1,5 +1,6 @@
 import React from 'react'
 import SectionTitle from './SectionTitle'
+import avatar from '../assets/avatar.png'
 import './About.css'
 
 export default function About() {
@@ -11,9 +12,7 @@ export default function About() {
         <div className="about__grid">
           <div className="about__image-col">
             <div className="about__image-wrapper brutal-border brutal-shadow">
-              <div className="about__image-placeholder">
-                <span className="about__emoji">👨‍💻</span>
-              </div>
+              <img src={avatar} alt="Jeya Daniel J" className="about__avatar-img" />
             </div>
             <div className="about__accent-block" />
           </div>
